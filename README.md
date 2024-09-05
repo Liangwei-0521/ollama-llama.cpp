@@ -465,8 +465,8 @@ Status: Downloaded newer image for ghcr.io/open-webui/open-webui:main
 ```
 
 * **展示效果**
+![initial](https://github.com/user-attachments/assets/9af77eb2-f4fd-4c69-bae3-557dc5ebc082)
 
-![initial](image/REAME/initial.png)
 
 * **外部连接**
   在ollama web ui中选择**外部连接**，****为宿主机的端口号，即web ui 直接访问服务器宿主机的服务端口.
@@ -489,4 +489,5 @@ https://u292800-8d7c-f5d28469.westc.gpuhub.com:****
 
 * **运行效果**
 
-![](image/REAME/show.png "show")
+![show](https://github.com/user-attachments/assets/d01a4c3d-d72d-4973-a47b-447dbbc2b633)
+
