@@ -117,7 +117,7 @@ flake.nix                      llama-gguf-split               llama-simple
 (ChatGLM3) root@autodl-container-0282478d7c-f5d28469:# cd llama.cpp/pip install -r requirements.txt
 ```
 
-发现存在转换文件代码**convert_hf_to_gguf.py**将hugging face下载的大模型
+发现存在转换文件代码**convert_hf_to_gguf.py**
 
 * **进行模型量化，输出转换细节**
 
